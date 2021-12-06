@@ -1,3 +1,10 @@
+# To run this app, type following commands in your terminal
+
+## `$ git clone https://github.com/dokolica018/github_app_final.git`
+## `cd github_app_final`
+## `npm install`
+## `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
